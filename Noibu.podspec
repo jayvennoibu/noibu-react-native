@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name         = "Noibu"
-    spec.version      = "0.1.0-beta.1"  
+    spec.version      = "0.1.1"  
     spec.summary      = "Noibu iOS SDK"
     spec.description  = "Noibu iOS SDK for monitoring and improving digital experience."
     
