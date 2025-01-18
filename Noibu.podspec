@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
     
     spec.source       = { 
       :git => "https://github.com/jayvennoibu/noibu-react-native.git",
-      :tag => "#{spec.version}" 
+      :tag => "v#{spec.version}" 
     }
     
     spec.vendored_frameworks = "Noibu.xcframework"
