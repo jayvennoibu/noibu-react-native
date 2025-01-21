@@ -1,0 +1,6 @@
+framework module Noibu {
+  umbrella header "Noibu.h"
+  export *
+
+  module * { export * }
+}
