@@ -15,7 +15,13 @@ if ! [[ $VERSION =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
 fi
 
 # Update podspec version
-sed -i '' "s/s.version *= *'.*'/s.version = '$VERSION'/" Noibu.podspec
+sed -i '' 's/spec.version *= *".*"/spec.version      = "'$VERSION'"/' Noibu.podspec
+
+# Verify the version was updated
+if ! grep -q "spec.version.*\"$VERSION\"" Noibu.podspec; then
+    echo "Failed to update version in podspec"
+    exit 1
+fi
 
 # Commit changes
 git add .
