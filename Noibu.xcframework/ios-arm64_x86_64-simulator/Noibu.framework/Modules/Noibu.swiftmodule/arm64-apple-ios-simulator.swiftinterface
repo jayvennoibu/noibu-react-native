@@ -45,6 +45,7 @@ import zlib
   @objc public var preloadFeatureFlags: Swift.Bool
   @objc public var captureApplicationLifecycleEvents: Swift.Bool
   @objc public var captureScreenViews: Swift.Bool
+  @objc public var onMobileEventTransformed: ((_ originalEvent: Swift.String, _ originalProperties: [Swift.String : Any], _ transformedProperties: [Swift.String : Any]) -> Swift.Void)?
   @objc public var captureElementInteractions: Swift.Bool
   @objc public var debug: Swift.Bool
   @objc public var optOut: Swift.Bool

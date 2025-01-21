@@ -1888,6 +1888,294 @@
           },
           {
             "kind": "Var",
+            "name": "onMobileEventTransformed",
+            "printedName": "onMobileEventTransformed",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((Swift.String, [Swift.String : Any], [Swift.String : Any]) -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String, [Swift.String : Any], [Swift.String : Any]) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tuple",
+                        "printedName": "(Swift.String, [Swift.String : Any], [Swift.String : Any])",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Dictionary",
+                            "printedName": "[Swift.String : Any]",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "ProtocolComposition",
+                                "printedName": "Any"
+                              }
+                            ],
+                            "usr": "s:SD"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Dictionary",
+                            "printedName": "[Swift.String : Any]",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "ProtocolComposition",
+                                "printedName": "Any"
+                              }
+                            ],
+                            "usr": "s:SD"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@Noibu@objc(cs)NoibuConfig(py)onMobileEventTransformed",
+            "mangledName": "$s5Noibu0A6ConfigC24onMobileEventTransformedySS_SDySSypGAEtcSgvp",
+            "moduleName": "Noibu",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((Swift.String, [Swift.String : Any], [Swift.String : Any]) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(Swift.String, [Swift.String : Any], [Swift.String : Any]) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Tuple",
+                            "printedName": "(Swift.String, [Swift.String : Any], [Swift.String : Any])",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Dictionary",
+                                "printedName": "[Swift.String : Any]",
+                                "children": [
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "String",
+                                    "printedName": "Swift.String",
+                                    "usr": "s:SS"
+                                  },
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "ProtocolComposition",
+                                    "printedName": "Any"
+                                  }
+                                ],
+                                "usr": "s:SD"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Dictionary",
+                                "printedName": "[Swift.String : Any]",
+                                "children": [
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "String",
+                                    "printedName": "Swift.String",
+                                    "usr": "s:SS"
+                                  },
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "ProtocolComposition",
+                                    "printedName": "Any"
+                                  }
+                                ],
+                                "usr": "s:SD"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Noibu@objc(cs)NoibuConfig(im)onMobileEventTransformed",
+                "mangledName": "$s5Noibu0A6ConfigC24onMobileEventTransformedySS_SDySSypGAEtcSgvg",
+                "moduleName": "Noibu",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((Swift.String, [Swift.String : Any], [Swift.String : Any]) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(Swift.String, [Swift.String : Any], [Swift.String : Any]) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Tuple",
+                            "printedName": "(Swift.String, [Swift.String : Any], [Swift.String : Any])",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Dictionary",
+                                "printedName": "[Swift.String : Any]",
+                                "children": [
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "String",
+                                    "printedName": "Swift.String",
+                                    "usr": "s:SS"
+                                  },
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "ProtocolComposition",
+                                    "printedName": "Any"
+                                  }
+                                ],
+                                "usr": "s:SD"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Dictionary",
+                                "printedName": "[Swift.String : Any]",
+                                "children": [
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "String",
+                                    "printedName": "Swift.String",
+                                    "usr": "s:SS"
+                                  },
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "ProtocolComposition",
+                                    "printedName": "Any"
+                                  }
+                                ],
+                                "usr": "s:SD"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Noibu@objc(cs)NoibuConfig(im)setOnMobileEventTransformed:",
+                "mangledName": "$s5Noibu0A6ConfigC24onMobileEventTransformedySS_SDySSypGAEtcSgvs",
+                "moduleName": "Noibu",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Noibu0A6ConfigC24onMobileEventTransformedySS_SDySSypGAEtcSgvM",
+                "mangledName": "$s5Noibu0A6ConfigC24onMobileEventTransformedySS_SDySSypGAEtcSgvM",
+                "moduleName": "Noibu",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "captureElementInteractions",
             "printedName": "captureElementInteractions",
             "children": [
@@ -12802,63 +13090,63 @@
     {
       "filePath": "\/Users\/jayven\/Documents\/GitHub\/unicron\/public_sdk\/ios\/Noibu\/Noibu\/Client\/NoibuConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 1027,
+      "offset": 1188,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jayven\/Documents\/GitHub\/unicron\/public_sdk\/ios\/Noibu\/Noibu\/Client\/NoibuConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 1079,
+      "offset": 1240,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jayven\/Documents\/GitHub\/unicron\/public_sdk\/ios\/Noibu\/Noibu\/Client\/NoibuConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 1121,
+      "offset": 1282,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jayven\/Documents\/GitHub\/unicron\/public_sdk\/ios\/Noibu\/Noibu\/Client\/NoibuConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1987,
+      "offset": 2148,
       "length": 5,
       "value": "\"\/s\/\""
     },
     {
       "filePath": "\/Users\/jayven\/Documents\/GitHub\/unicron\/public_sdk\/ios\/Noibu\/Noibu\/Client\/NoibuConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2083,
+      "offset": 2244,
       "length": 24,
       "value": "\"https:\/\/us.i.Noibu.com\""
     },
     {
       "filePath": "\/Users\/jayven\/Documents\/GitHub\/unicron\/public_sdk\/ios\/Noibu\/Noibu\/Client\/NoibuConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 2288,
+      "offset": 2449,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jayven\/Documents\/GitHub\/unicron\/public_sdk\/ios\/Noibu\/Noibu\/Client\/NoibuConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 2528,
+      "offset": 2689,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jayven\/Documents\/GitHub\/unicron\/public_sdk\/ios\/Noibu\/Noibu\/Client\/NoibuConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 2578,
+      "offset": 2739,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jayven\/Documents\/GitHub\/unicron\/public_sdk\/ios\/Noibu\/Noibu\/Client\/NoibuConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 2704,
+      "offset": 2865,
       "length": 5,
       "value": "false"
     },
