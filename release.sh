@@ -15,7 +15,7 @@ if ! [[ $VERSION =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
 fi
 
 # Update podspec version
-sed -i '' "s/s.version *= *'.*'/s.version = '$VERSION'/" YourFramework.podspec
+sed -i '' "s/s.version *= *'.*'/s.version = '$VERSION'/" Noibu.podspec
 
 # Commit changes
 git add .
@@ -28,6 +28,6 @@ git push origin "v$VERSION"
 
 # Push to CocoaPods
 echo "Publishing to CocoaPods..."
-pod trunk push YourFramework.podspec
+pod trunk push Noibu.podspec
 
 echo "✅ Release v$VERSION completed!" 
