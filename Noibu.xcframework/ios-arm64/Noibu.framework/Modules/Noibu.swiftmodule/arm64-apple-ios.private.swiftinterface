@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
 // swift-module-flags: -target arm64-apple-ios18.2 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name Noibu
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import Foundation
 @_exported import Noibu
 import PhotosUI
@@ -46,6 +47,7 @@ import zlib
   @objc public var captureApplicationLifecycleEvents: Swift.Bool
   @objc public var captureScreenViews: Swift.Bool
   @objc public var onMobileEventTransformed: ((_ originalEvent: Swift.String, _ originalProperties: [Swift.String : Any], _ transformedProperties: [Swift.String : Any]) -> Swift.Void)?
+  @objc public var onSnapshotIntercept: ((_ rawEvents: [[Swift.String : Any]], _ rawData: Foundation.Data?, _ gzippedData: Foundation.Data?) -> Swift.Void)?
   @objc public var captureElementInteractions: Swift.Bool
   @objc public var debug: Swift.Bool
   @objc public var optOut: Swift.Bool

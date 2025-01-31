@@ -4,3 +4,8 @@ framework module Noibu {
 
   module * { export * }
 }
+
+module Noibu.Swift {
+  header "Noibu-Swift.h"
+  requires objc
+}

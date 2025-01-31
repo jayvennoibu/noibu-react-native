@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/Noibu-Swift.h</key>
+		<data>
+		92FpFiUVj635nbTDiU52otbBkI0=
+		</data>
 		<key>Headers/Noibu.h</key>
 		<data>
 		wtzol1oCSHJzJi0tOxXIMvebw+c=
@@ -14,47 +18,47 @@
 		</data>
 		<key>Modules/Noibu.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		uM7yYZeWz8XncydpQyqgigfBTTI=
+		NcMneWrCzq81M/0WyrWzBJt4FOM=
 		</data>
 		<key>Modules/Noibu.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		UScPQ7RXz8c6jZUF/pxb5L2N0lk=
+		3Us/aa3FukSDG/Hg7a4IfcEQIW4=
 		</data>
 		<key>Modules/Noibu.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		zm88WwJIiokMDyehq7dCMzkNE/w=
+		Qig2bFmGas6HKwl8t1dQgxacLts=
 		</data>
 		<key>Modules/Noibu.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		UScPQ7RXz8c6jZUF/pxb5L2N0lk=
+		3Us/aa3FukSDG/Hg7a4IfcEQIW4=
 		</data>
 		<key>Modules/Noibu.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VeMK2G3Nx1eWT6ifFipj5roCPYA=
+		FFR5UGX1fEaMowgYf0LVGv7ZQFM=
 		</data>
 		<key>Modules/Noibu.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		uM7yYZeWz8XncydpQyqgigfBTTI=
+		NcMneWrCzq81M/0WyrWzBJt4FOM=
 		</data>
 		<key>Modules/Noibu.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		hA4B6K/xWxkFgoRHOqC4O4qZmPo=
+		ogrT5CEr8WbITqUhS4nvhGF//VM=
 		</data>
 		<key>Modules/Noibu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		gkz72li1MNuMYqQectn71Fpem6A=
+		58iqgw4e5sMYpLU+n6ixB819GEk=
 		</data>
 		<key>Modules/Noibu.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		hA4B6K/xWxkFgoRHOqC4O4qZmPo=
+		ogrT5CEr8WbITqUhS4nvhGF//VM=
 		</data>
 		<key>Modules/Noibu.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		x9Y1sJ6fX+3t4qtKj3NyfdDzezA=
+		RL1kTu84DT5Yf+XcXvpJz9Lvsok=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		q9gyj9QPo3g+nvni9KDdgD5s02E=
+		DehXa6hHIwPLBWFj2RRbsHT5PpU=
 		</data>
 		<key>snapshot_1736419888.50405.gz</key>
 		<data>
@@ -71,6 +75,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/Noibu-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Vbe9eCVJlLgSHqaKs4l5PBG1yQ2mv0omLm7qY7mskS4=
+			</data>
+		</dict>
 		<key>Headers/Noibu.h</key>
 		<dict>
 			<key>hash2</key>
@@ -82,77 +93,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JpSiu0pp+ynjz5FC48NztlOHvZPuPRWYZE4WYsgWERs=
+			mOPIzBAEiPsi8Fm0qnDDS3zibUSJGjshImTXzhC7/u0=
 			</data>
 		</dict>
 		<key>Modules/Noibu.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T+c0+FEFfE0HspohvVY5uHlYNTYhoNArRdz9QR+FNz4=
+			bTXztH9rzotuwoue7IFywlp9+BmM3kLK45XE3HnSXBc=
 			</data>
 		</dict>
 		<key>Modules/Noibu.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y0eLwzsiIS3ztXcoAiglpcC2dabZJb30red1duAbjzw=
+			eE8EtyAWx0hmlKacDyFifFyY4k9Ooz390Jtnw02anXI=
 			</data>
 		</dict>
 		<key>Modules/Noibu.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T+c0+FEFfE0HspohvVY5uHlYNTYhoNArRdz9QR+FNz4=
+			bTXztH9rzotuwoue7IFywlp9+BmM3kLK45XE3HnSXBc=
 			</data>
 		</dict>
 		<key>Modules/Noibu.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UFeX41HwKVDtK+27BiJkChfqO+n+KNSvVJc7Ly41ogI=
+			q0DcTP2x3zXxJ/FLmd/873jO5PPC0Axl8xHew0jpIis=
 			</data>
 		</dict>
 		<key>Modules/Noibu.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JpSiu0pp+ynjz5FC48NztlOHvZPuPRWYZE4WYsgWERs=
+			mOPIzBAEiPsi8Fm0qnDDS3zibUSJGjshImTXzhC7/u0=
 			</data>
 		</dict>
 		<key>Modules/Noibu.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JECBH1a44NENN2RnT7dCepXFb5hBNeKS0E11bp0t26I=
+			/lFQnB464zIHHlxXMcZCiyRD2td/Oo7ZXZ6EZE+kAZU=
 			</data>
 		</dict>
 		<key>Modules/Noibu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DWpNjC8PGGQA32TmwrYi3/xm8kMw0EWKa1vtbWjOuE0=
+			dd5KH9vOH8aucNMtP44MCZcmv5N/FeZTgXAiZxAbiOU=
 			</data>
 		</dict>
 		<key>Modules/Noibu.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JECBH1a44NENN2RnT7dCepXFb5hBNeKS0E11bp0t26I=
+			/lFQnB464zIHHlxXMcZCiyRD2td/Oo7ZXZ6EZE+kAZU=
 			</data>
 		</dict>
 		<key>Modules/Noibu.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PlpmBY0+HEXSA3O2GfCBFP+st1Pcd1HMF5OJPbpJS28=
+			WmpY7K4djkQ+3H7lJKIVRNEcDiL+WFrlRPdL4t8WSn4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2EH8tLQ6fElW0Ae58cR5FxD6GGgJv62QYd1QpU5Bork=
+			wl8gEywPEpl23c0X0xx2Z22GwV4wnl9HFvrw+GgRIDs=
 			</data>
 		</dict>
 		<key>snapshot_1736419888.50405.gz</key>
